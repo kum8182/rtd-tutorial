@@ -21,4 +21,4 @@ Contents
 
    usage
    api
-Lumache has its documentation hosted on Read the Docs.2
+Lumache has its documentation hosted on Read the Docs.3
